@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewCategories</string>
+    <string name="categories">categories</string>
+    <string name="textview1">TextView</string>
+</resources>
